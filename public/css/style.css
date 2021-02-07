@@ -1,0 +1,102 @@
+html {
+    font-family: sans-serif;
+    font-size: 16px;
+    line-height: 1.3em;
+}
+
+header {
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    display: block;
+    box-sizing: border-box;
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+}
+
+main {
+    margin-top: 16px;
+}
+
+footer {
+    position: fixed;     
+    text-align: center;    
+    bottom: 20px; 
+    width: 100%;
+}
+
+table , th, td.normal {
+    margin: auto; 
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+a:link, a:visited {
+    color: blue;
+    font-weight: bold;
+    margin: 20px;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+
+th.bg {
+    background-color:silver;
+}
+
+
+table.shopview {
+    margin-left: 20%;
+    border: 0px solid black !important;
+}
+
+td.alignRight{
+    text-align: right;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.bluecolor {
+    color: blue;
+    font-size: 22px;
+    margin-left: 7px;
+    margin-right: 7px;
+}
+
+td.marginzero {
+    border: 1px solid;
+}
+
+pre {
+    display: inline;
+    font-family: sans-serif;
+    font-size: 16px;
+    line-height: 1.3em;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+a.under:hover {
+    text-decoration: underline;
+    text-decoration-style: double;
+}
+
+
+
+
+
+
+
+
+
+
+
